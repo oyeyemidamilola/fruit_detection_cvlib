@@ -15,3 +15,5 @@ It displays the detected objects(fruits) creating a boundary box and label aroun
 1.  Install all dependencies using `pipenv install <package>` for each library  or use `pipenv install --ignore-pipfile` to install all depencies at once
 2. Navigate to the project folder, run `python object_detection.py`
 
+## Output
+![alt text]()
