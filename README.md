@@ -16,4 +16,4 @@ It displays the detected objects(fruits) creating a boundary box and label aroun
 2. Navigate to the project folder, run `python object_detection.py`
 
 ## Output
-![alt text]()
+![alt text](https://github.com/oyeyemidamilola/peexoo_test_q3/blob/master/output.JPG)
